@@ -1,5 +1,5 @@
 const os = require('os');
-
+console.log('gopal ran this file on Nov 03, 2022 --------------> it will be my 1st commit');
 console.log('OS uptime', os.uptime())
 console.log('Total system memory', os.totalmem());
 console.log('Free memory', os.freemem());
